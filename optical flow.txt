@@ -1,0 +1,28 @@
+opencv Python homography sample
+
+
+opencv add mask to map an image over anther
+
+global motion 
+
+localised objects motion
+
+light texture movement is similar to object/pixel movement
+
+gradient and motion can be different in illusions 
+
+features tracking is sparse traking. sparse tracking is different from sift. 
+
+same moving object has different flow
+
+-detector
+-description
+-sift
+-optical flow
+
+application
+-motion based segmentation jb or jo body move ho sirf uska video sequence save ho specifically
+-video compression only keep moving object and remove background
+- 
+
+
