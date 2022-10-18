@@ -1,0 +1,23 @@
+expressive texture 
+the point at which boundary direction changes abruptly
+
+intersection bw two or more edge seggment
+
+-Properties of interest point detection
+detect all 
+no false int points
+robust to noise
+efficient detecction
+
+
+-strategy of corner detection
+1. brightness of image
+image derivatives
+
+2. boundary extraction
+first step edge det
+curvature analyss of edges
+
+The idea behind the Harris method is to detect points based on the intensity variation in a local neighborhood: a small region around the feature should show a large intensity change when compared with windows shifted in any direction.
+
+
